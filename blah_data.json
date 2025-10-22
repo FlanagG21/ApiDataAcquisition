@@ -1,0 +1,1612 @@
+[
+    {
+        "page": 1,
+        "pages": 3,
+        "per_page": 100,
+        "total": 266,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+    },
+    [
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZH",
+                "value": "Africa Eastern and Southern"
+            },
+            "countryiso3code": "AFE",
+            "date": "2022",
+            "value": 6.3840017380134,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZI",
+                "value": "Africa Western and Central"
+            },
+            "countryiso3code": "AFW",
+            "date": "2022",
+            "value": 3.5508300765959,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "1A",
+                "value": "Arab World"
+            },
+            "countryiso3code": "ARB",
+            "date": "2022",
+            "value": 4.47145184083106,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "S3",
+                "value": "Caribbean small states"
+            },
+            "countryiso3code": "CSS",
+            "date": "2022",
+            "value": 3.57481810288018e-05,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "B8",
+                "value": "Central Europe and the Baltics"
+            },
+            "countryiso3code": "CEB",
+            "date": "2022",
+            "value": 13.5237851655299,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "V2",
+                "value": "Early-demographic dividend"
+            },
+            "countryiso3code": "EAR",
+            "date": "2022",
+            "value": 11.4779886863998,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "Z4",
+                "value": "East Asia & Pacific"
+            },
+            "countryiso3code": "EAS",
+            "date": "2022",
+            "value": 35.0343973078205,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "4E",
+                "value": "East Asia & Pacific (excluding high income)"
+            },
+            "countryiso3code": "EAP",
+            "date": "2022",
+            "value": 30.1062978410867,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T4",
+                "value": "East Asia & Pacific (IDA & IBRD countries)"
+            },
+            "countryiso3code": "TEA",
+            "date": "2022",
+            "value": 30.1062978410867,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XC",
+                "value": "Euro area"
+            },
+            "countryiso3code": "EMU",
+            "date": "2022",
+            "value": 19.9145301850593,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "Z7",
+                "value": "Europe & Central Asia"
+            },
+            "countryiso3code": "ECS",
+            "date": "2022",
+            "value": 19.9504069637933,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "7E",
+                "value": "Europe & Central Asia (excluding high income)"
+            },
+            "countryiso3code": "ECA",
+            "date": "2022",
+            "value": 8.32319841158245,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T7",
+                "value": "Europe & Central Asia (IDA & IBRD countries)"
+            },
+            "countryiso3code": "TEC",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "EU",
+                "value": "European Union"
+            },
+            "countryiso3code": "EUU",
+            "date": "2022",
+            "value": 19.1328457120983,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "F1",
+                "value": "Fragile and conflict affected situations"
+            },
+            "countryiso3code": "FCS",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XE",
+                "value": "Heavily indebted poor countries (HIPC)"
+            },
+            "countryiso3code": "HPC",
+            "date": "2022",
+            "value": 2.70946186239907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XD",
+                "value": "High income"
+            },
+            "countryiso3code": "",
+            "date": "2022",
+            "value": 23.2435080871998,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XF",
+                "value": "IBRD only"
+            },
+            "countryiso3code": "IBD",
+            "date": "2022",
+            "value": 21.6850707195745,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZT",
+                "value": "IDA & IBRD total"
+            },
+            "countryiso3code": "IBT",
+            "date": "2022",
+            "value": 21.0305788799102,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XH",
+                "value": "IDA blend"
+            },
+            "countryiso3code": "IDB",
+            "date": "2022",
+            "value": 2.0819412322996,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XI",
+                "value": "IDA only"
+            },
+            "countryiso3code": "IDX",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XG",
+                "value": "IDA total"
+            },
+            "countryiso3code": "IDA",
+            "date": "2022",
+            "value": 2.65655751023102,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "V3",
+                "value": "Late-demographic dividend"
+            },
+            "countryiso3code": "LTE",
+            "date": "2022",
+            "value": 25.5106163270809,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZJ",
+                "value": "Latin America & Caribbean"
+            },
+            "countryiso3code": "LCN",
+            "date": "2022",
+            "value": 12.748228175121,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XJ",
+                "value": "Latin America & Caribbean (excluding high income)"
+            },
+            "countryiso3code": "LAC",
+            "date": "2022",
+            "value": 13.4573822020255,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T2",
+                "value": "Latin America & the Caribbean (IDA & IBRD countries)"
+            },
+            "countryiso3code": "TLA",
+            "date": "2022",
+            "value": 12.800030600844,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XL",
+                "value": "Least developed countries: UN classification"
+            },
+            "countryiso3code": "LDC",
+            "date": "2022",
+            "value": 7.54385030609022,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XO",
+                "value": "Low & middle income"
+            },
+            "countryiso3code": "LMY",
+            "date": "2022",
+            "value": 22.126724126155,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XM",
+                "value": "Low income"
+            },
+            "countryiso3code": "",
+            "date": "2022",
+            "value": 2.43008989693262,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XN",
+                "value": "Lower middle income"
+            },
+            "countryiso3code": "",
+            "date": "2022",
+            "value": 20.5941694003974,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZQ",
+                "value": "Middle East, North Africa, Afghanistan & Pakistan"
+            },
+            "countryiso3code": "MEA",
+            "date": "2022",
+            "value": 6.8161180867038,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XQ",
+                "value": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+            },
+            "countryiso3code": "MNA",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T3",
+                "value": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+            },
+            "countryiso3code": "TMN",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XP",
+                "value": "Middle income"
+            },
+            "countryiso3code": "MIC",
+            "date": "2022",
+            "value": 22.2742460456257,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XU",
+                "value": "North America"
+            },
+            "countryiso3code": "NAC",
+            "date": "2022",
+            "value": 19.4101520511814,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XY",
+                "value": "Not classified"
+            },
+            "countryiso3code": "",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "OE",
+                "value": "OECD members"
+            },
+            "countryiso3code": "OED",
+            "date": "2022",
+            "value": 20.7670607813531,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "S4",
+                "value": "Other small states"
+            },
+            "countryiso3code": "OSS",
+            "date": "2022",
+            "value": 18.9620401120196,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "S2",
+                "value": "Pacific island small states"
+            },
+            "countryiso3code": "PSS",
+            "date": "2022",
+            "value": 2.17219976922915,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "V4",
+                "value": "Post-demographic dividend"
+            },
+            "countryiso3code": "PST",
+            "date": "2022",
+            "value": 24.2847981153009,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "V1",
+                "value": "Pre-demographic dividend"
+            },
+            "countryiso3code": "PRE",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "S1",
+                "value": "Small states"
+            },
+            "countryiso3code": "SST",
+            "date": "2022",
+            "value": 17.7381585675396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "8S",
+                "value": "South Asia"
+            },
+            "countryiso3code": "SAS",
+            "date": "2022",
+            "value": 12.3549130397503,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T5",
+                "value": "South Asia (IDA & IBRD)"
+            },
+            "countryiso3code": "TSA",
+            "date": "2022",
+            "value": 12.3549130397503,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZG",
+                "value": "Sub-Saharan Africa"
+            },
+            "countryiso3code": "SSF",
+            "date": "2022",
+            "value": 5.73047390935619,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "ZF",
+                "value": "Sub-Saharan Africa (excluding high income)"
+            },
+            "countryiso3code": "SSA",
+            "date": "2022",
+            "value": 5.70851213546242,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "T6",
+                "value": "Sub-Saharan Africa (IDA & IBRD countries)"
+            },
+            "countryiso3code": "TSS",
+            "date": "2022",
+            "value": 5.73047390935619,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "XT",
+                "value": "Upper middle income"
+            },
+            "countryiso3code": "",
+            "date": "2022",
+            "value": 22.7042357885621,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "1W",
+                "value": "World"
+            },
+            "countryiso3code": "WLD",
+            "date": "2022",
+            "value": 22.9050820540858,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AF",
+                "value": "Afghanistan"
+            },
+            "countryiso3code": "AFG",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AL",
+                "value": "Albania"
+            },
+            "countryiso3code": "ALB",
+            "date": "2022",
+            "value": 0.0596409977568037,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "DZ",
+                "value": "Algeria"
+            },
+            "countryiso3code": "DZA",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AS",
+                "value": "American Samoa"
+            },
+            "countryiso3code": "ASM",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AD",
+                "value": "Andorra"
+            },
+            "countryiso3code": "AND",
+            "date": "2022",
+            "value": 13.3076613572665,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AO",
+                "value": "Angola"
+            },
+            "countryiso3code": "AGO",
+            "date": "2022",
+            "value": 22.0635039995781,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AG",
+                "value": "Antigua and Barbuda"
+            },
+            "countryiso3code": "ATG",
+            "date": "2022",
+            "value": 0,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AR",
+                "value": "Argentina"
+            },
+            "countryiso3code": "ARG",
+            "date": "2022",
+            "value": 4.75157524338594,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AM",
+                "value": "Armenia"
+            },
+            "countryiso3code": "ARM",
+            "date": "2022",
+            "value": 21.8475283435373,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AW",
+                "value": "Aruba"
+            },
+            "countryiso3code": "ABW",
+            "date": "2022",
+            "value": 7.12514654462656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2022",
+            "value": 25.8318704116272,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AT",
+                "value": "Austria"
+            },
+            "countryiso3code": "AUT",
+            "date": "2022",
+            "value": 14.9141702472602,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "AZ",
+                "value": "Azerbaijan"
+            },
+            "countryiso3code": "AZE",
+            "date": "2022",
+            "value": 3.9129441620027,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BS",
+                "value": "Bahamas, The"
+            },
+            "countryiso3code": "BHS",
+            "date": "2022",
+            "value": 0,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BH",
+                "value": "Bahrain"
+            },
+            "countryiso3code": "BHR",
+            "date": "2022",
+            "value": 0.569959196315979,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BD",
+                "value": "Bangladesh"
+            },
+            "countryiso3code": "BGD",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BB",
+                "value": "Barbados"
+            },
+            "countryiso3code": "BRB",
+            "date": "2022",
+            "value": 17.0117393061682,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BY",
+                "value": "Belarus"
+            },
+            "countryiso3code": "BLR",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BE",
+                "value": "Belgium"
+            },
+            "countryiso3code": "BEL",
+            "date": "2022",
+            "value": 22.8179135173265,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BZ",
+                "value": "Belize"
+            },
+            "countryiso3code": "BLZ",
+            "date": "2022",
+            "value": 0.000181554452131674,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BJ",
+                "value": "Benin"
+            },
+            "countryiso3code": "BEN",
+            "date": "2022",
+            "value": 4.28715620621521,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BM",
+                "value": "Bermuda"
+            },
+            "countryiso3code": "BMU",
+            "date": "2022",
+            "value": 12.5402908347027,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BT",
+                "value": "Bhutan"
+            },
+            "countryiso3code": "BTN",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BO",
+                "value": "Bolivia"
+            },
+            "countryiso3code": "BOL",
+            "date": "2022",
+            "value": 5.51769748718287,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BA",
+                "value": "Bosnia and Herzegovina"
+            },
+            "countryiso3code": "BIH",
+            "date": "2022",
+            "value": 5.22474917760104,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BW",
+                "value": "Botswana"
+            },
+            "countryiso3code": "BWA",
+            "date": "2022",
+            "value": 0.502381294093243,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2022",
+            "value": 9.11134627987528,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "VG",
+                "value": "British Virgin Islands"
+            },
+            "countryiso3code": "VGB",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BN",
+                "value": "Brunei Darussalam"
+            },
+            "countryiso3code": "BRN",
+            "date": "2022",
+            "value": 1.04425960383175,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BG",
+                "value": "Bulgaria"
+            },
+            "countryiso3code": "BGR",
+            "date": "2022",
+            "value": 10.3826775418569,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BF",
+                "value": "Burkina Faso"
+            },
+            "countryiso3code": "BFA",
+            "date": "2022",
+            "value": 1.5289989764953,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "BI",
+                "value": "Burundi"
+            },
+            "countryiso3code": "BDI",
+            "date": "2022",
+            "value": 1.11792409166671,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CV",
+                "value": "Cabo Verde"
+            },
+            "countryiso3code": "CPV",
+            "date": "2022",
+            "value": 3.47654000154602,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "KH",
+                "value": "Cambodia"
+            },
+            "countryiso3code": "KHM",
+            "date": "2022",
+            "value": 6.56222598236463,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CM",
+                "value": "Cameroon"
+            },
+            "countryiso3code": "CMR",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2022",
+            "value": 14.703199989661,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "KY",
+                "value": "Cayman Islands"
+            },
+            "countryiso3code": "CYM",
+            "date": "2022",
+            "value": 56.6467051908622,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CF",
+                "value": "Central African Republic"
+            },
+            "countryiso3code": "CAF",
+            "date": "2022",
+            "value": 37.2974046773952,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "TD",
+                "value": "Chad"
+            },
+            "countryiso3code": "TCD",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "JG",
+                "value": "Channel Islands"
+            },
+            "countryiso3code": "CHI",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CL",
+                "value": "Chile"
+            },
+            "countryiso3code": "CHL",
+            "date": "2022",
+            "value": 6.93672684116693,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CN",
+                "value": "China"
+            },
+            "countryiso3code": "CHN",
+            "date": "2022",
+            "value": 27.7650612563156,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CO",
+                "value": "Colombia"
+            },
+            "countryiso3code": "COL",
+            "date": "2022",
+            "value": 8.40182637186439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "KM",
+                "value": "Comoros"
+            },
+            "countryiso3code": "COM",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CD",
+                "value": "Congo, Dem. Rep."
+            },
+            "countryiso3code": "COD",
+            "date": "2022",
+            "value": 0.723158681595087,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CG",
+                "value": "Congo, Rep."
+            },
+            "countryiso3code": "COG",
+            "date": "2022",
+            "value": 4.32722654163177,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CR",
+                "value": "Costa Rica"
+            },
+            "countryiso3code": "CRI",
+            "date": "2022",
+            "value": 21.9748960011818,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CI",
+                "value": "Cote d'Ivoire"
+            },
+            "countryiso3code": "CIV",
+            "date": "2022",
+            "value": 3.55657032872416,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "HR",
+                "value": "Croatia"
+            },
+            "countryiso3code": "HRV",
+            "date": "2022",
+            "value": 12.0638540428638,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CU",
+                "value": "Cuba"
+            },
+            "countryiso3code": "CUB",
+            "date": "2022",
+            "value": 7.87558913182664,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "TX.VAL.TECH.MF.ZS",
+                "value": "High-technology exports (% of manufactured exports)"
+            },
+            "country": {
+                "id": "CW",
+                "value": "Curacao"
+            },
+            "countryiso3code": "CUW",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]
