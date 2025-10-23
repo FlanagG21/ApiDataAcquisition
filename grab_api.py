@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import json
 
 
@@ -76,22 +76,47 @@ def merge_datasets(dataframes, columns):
         column (list): the columns of the dataframe to merge on
     """
     merged = dataframes[0].copy()
-    for df in dataframes:
+    for df in dataframes[1:]:
         merged = merged.merge(df, on=columns, how='outer')
     return merged
 
 
-def chart_data(data):
-    # plt.figure(figsize=(10, 6))
-    # plt.plot(accuracies, 'bo-', linewidth=2, markersize=8)
-    # plt.xlabel('Tree Depth')
-    # plt.ylabel('Accuracy')
-    # plt.title('Decision Tree Accuracy vs. Maximum Depth')
-    # plt.grid(True, alpha=0.3)
-    # plt.xticks(range(len(accuracies)))
-    
-    # plt.tight_layout()
-    # plt.savefig('./decision_tree_accuracy.png', dpi=300, bbox_inches='tight')
-    # plt.close() 
-    return None
+def chart_data(data, x, y, name):
+    """Creates a scatterplot of two data columns, x, and y
 
+    Args:
+        data (dataframe): the dataframe that has the data
+        x (str): x-column name for the data
+        y (str): y-column name for the data
+        name: what you want the chart to be called
+    """
+    plt.figure(figsize=(10, 6))
+    
+    plt.scatter(data[x], data[y], color='blue', s=100, alpha=0.6, edgecolors='black')
+
+    plt.xlabel(x, fontsize=12)
+    plt.ylabel(y, fontsize=12)
+    
+    mask = ~(data[x].isna() | data[y].isna())
+    x_clean = data[x][mask]
+    y_clean = data[y][mask]
+    
+    z = np.polyfit(x_clean, y_clean, 1)  
+    p = np.poly1d(z)
+    
+    plt.plot(x_clean, p(x_clean), "r--", linewidth=2, label=f'y={z[0]:.2f}x+{z[1]:.2f}')
+    plt.legend()
+    plt.title(f'{y} vs {x}', fontsize=14, fontweight='bold')
+
+    plt.grid(True, alpha=0.3)
+
+    plt.tight_layout()
+    
+    plt.savefig(name + '.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    
+    print("Graph saved as 'line_graph.png'")
+
+def dataframe_to_json(data, filename):
+    data.to_json(filename, orient='records', indent=4)
+    

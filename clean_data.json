@@ -1,0 +1,205 @@
+[
+    {
+        "country":"Argentina",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":4.7515752434,
+        "TX.VAL.TECH.CD":663679613.0,
+        "GB.XPD.RSDV.GD.ZS":0.54947
+    },
+    {
+        "country":"Armenia",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":21.8475283435,
+        "TX.VAL.TECH.CD":497178920.0,
+        "GB.XPD.RSDV.GD.ZS":0.20955
+    },
+    {
+        "country":"Austria",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":14.9141702473,
+        "TX.VAL.TECH.CD":23542335794.0,
+        "GB.XPD.RSDV.GD.ZS":3.20048
+    },
+    {
+        "country":"Azerbaijan",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":3.912944162,
+        "TX.VAL.TECH.CD":49582911.0,
+        "GB.XPD.RSDV.GD.ZS":0.1513
+    },
+    {
+        "country":"Belgium",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":22.8179135173,
+        "TX.VAL.TECH.CD":68608511632.0,
+        "GB.XPD.RSDV.GD.ZS":3.40544
+    },
+    {
+        "country":"Bosnia and Herzegovina",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":5.2247491776,
+        "TX.VAL.TECH.CD":346093120.0,
+        "GB.XPD.RSDV.GD.ZS":0.18743
+    },
+    {
+        "country":"Bulgaria",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":10.3826775419,
+        "TX.VAL.TECH.CD":2722362666.0,
+        "GB.XPD.RSDV.GD.ZS":0.75421
+    },
+    {
+        "country":"Canada",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":14.7031999897,
+        "TX.VAL.TECH.CD":31224620822.0,
+        "GB.XPD.RSDV.GD.ZS":1.71166
+    },
+    {
+        "country":"Central Europe and the Baltics",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":13.5237851655,
+        "TX.VAL.TECH.CD":131034534443.0,
+        "GB.XPD.RSDV.GD.ZS":1.3122930398
+    },
+    {
+        "country":"China",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":27.7650612563,
+        "TX.VAL.TECH.CD":924393316669.0,
+        "GB.XPD.RSDV.GD.ZS":2.55518
+    },
+    {
+        "country":"Congo, Rep.",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":4.3272265416,
+        "TX.VAL.TECH.CD":27110079.0,
+        "GB.XPD.RSDV.GD.ZS":0.38339
+    },
+    {
+        "country":"Costa Rica",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":21.9748960012,
+        "TX.VAL.TECH.CD":2066890450.0,
+        "GB.XPD.RSDV.GD.ZS":0.33789
+    },
+    {
+        "country":"Croatia",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":12.0638540429,
+        "TX.VAL.TECH.CD":1736046687.0,
+        "GB.XPD.RSDV.GD.ZS":1.40323
+    },
+    {
+        "country":"Cuba",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":7.8755891318,
+        "TX.VAL.TECH.CD":13311229.0,
+        "GB.XPD.RSDV.GD.ZS":0.36012
+    },
+    {
+        "country":"Euro area",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":19.9145301851,
+        "TX.VAL.TECH.CD":747447868721.0,
+        "GB.XPD.RSDV.GD.ZS":2.27819337
+    },
+    {
+        "country":"Europe & Central Asia",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":19.9504069638,
+        "TX.VAL.TECH.CD":1069376904178.0,
+        "GB.XPD.RSDV.GD.ZS":1.9694164305
+    },
+    {
+        "country":"Europe & Central Asia (excluding high income)",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":8.3231984116,
+        "TX.VAL.TECH.CD":14123914768.0,
+        "GB.XPD.RSDV.GD.ZS":0.8111552622
+    },
+    {
+        "country":"European Union",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":19.1328457121,
+        "TX.VAL.TECH.CD":895062132865.0,
+        "GB.XPD.RSDV.GD.ZS":2.2428467222
+    },
+    {
+        "country":"High income",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":23.2435080872,
+        "TX.VAL.TECH.CD":2257116664905.0,
+        "GB.XPD.RSDV.GD.ZS":2.9217166044
+    },
+    {
+        "country":"IBRD only",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":21.6850707196,
+        "TX.VAL.TECH.CD":1506938932022.0,
+        "GB.XPD.RSDV.GD.ZS":1.9566883513
+    },
+    {
+        "country":"IDA & IBRD total",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":21.0305788799,
+        "TX.VAL.TECH.CD":1509587968967.0,
+        "GB.XPD.RSDV.GD.ZS":1.9320321109
+    },
+    {
+        "country":"Late-demographic dividend",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":25.5106163271,
+        "TX.VAL.TECH.CD":1418519142701.0,
+        "GB.XPD.RSDV.GD.ZS":2.1627902103
+    },
+    {
+        "country":"Middle income",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":22.2742460456,
+        "TX.VAL.TECH.CD":1464088550528.0,
+        "GB.XPD.RSDV.GD.ZS":2.0830527345
+    },
+    {
+        "country":"North America",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":19.4101520512,
+        "TX.VAL.TECH.CD":223101930521.0,
+        "GB.XPD.RSDV.GD.ZS":3.4406104441
+    },
+    {
+        "country":"OECD members",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":20.7670607814,
+        "TX.VAL.TECH.CD":1718433020673.0,
+        "GB.XPD.RSDV.GD.ZS":3.0213484631
+    },
+    {
+        "country":"Other small states",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":18.962040112,
+        "TX.VAL.TECH.CD":3910894565.0,
+        "GB.XPD.RSDV.GD.ZS":1.3958118679
+    },
+    {
+        "country":"Post-demographic dividend",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":24.2847981153,
+        "TX.VAL.TECH.CD":2088952533190.0,
+        "GB.XPD.RSDV.GD.ZS":3.1197892704
+    },
+    {
+        "country":"Upper middle income",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":22.7042357886,
+        "TX.VAL.TECH.CD":1244384190635.0,
+        "GB.XPD.RSDV.GD.ZS":2.1351248229
+    },
+    {
+        "country":"World",
+        "date":"2022",
+        "TX.VAL.TECH.MF.ZS":22.9050820541,
+        "TX.VAL.TECH.CD":3721313109670.0,
+        "GB.XPD.RSDV.GD.ZS":2.6702055692
+    }
+]
